@@ -1,0 +1,5 @@
+config.json
+*.local.*
+.DS_Store
+node_modules/
+outputs/
