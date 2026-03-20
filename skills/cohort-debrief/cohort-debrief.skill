@@ -7,6 +7,8 @@ description: Post-event cohort debrief. Collect per-startup notes, generate summ
 
 Post-event skill for facilitators. Run this after each Founder Jam event to document what each startup built, assess output quality, and surface patterns and improvements for the next cohort.
 
+**See also:** `readout-summary` (complementary -- analyzes final readout transcript to produce external-facing summary DOCX and follow-up email to all founders)
+
 ## Overview
 
 This skill walks through:
