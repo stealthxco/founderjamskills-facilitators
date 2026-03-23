@@ -3,3 +3,7 @@ config.json
 .DS_Store
 node_modules/
 outputs/
+
+# Environment files
+.env
+.env.local
